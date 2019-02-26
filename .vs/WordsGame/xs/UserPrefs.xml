@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0D4F028A-1161-76C4-0022-6E850129E86C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelGenerate.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Purchaser.cs" Line="162" Column="26" />
+      <File FileName="Assets/Scripts/com/moralabs/cube/popup/TipPopup.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/com/moralabs/cube/popup/SuccesPopup.cs" Line="53" Column="1" />
+      <File FileName="Assets/Scripts/Level.cs" Line="30" Column="30" />
+      <File FileName="Assets/Scripts/LevelGenerate.cs" Line="565" Column="17" />
+      <File FileName="Assets/Scripts/Word.cs" Line="61" Column="32" />
+      <File FileName="Assets/Scripts/com/moralabs/cube/popup/FlagPopup.cs" Line="2" Column="15" />
+      <File FileName="Assets/Scripts/Flag.cs" Line="21" Column="43" />
+      <File FileName="Assets/Scripts/com/moralabs/cube/scene/Dashboard.cs" Line="37" Column="68" />
+      <File FileName="Assets/Scripts/com/moralabs/cube/scene/Scene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/com/moralabs/cube/popup/SettingsPopup.cs" Line="96" Column="25" />
+      <File FileName="Assets/Scripts/LevelManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Text/Levelstr.txt" Line="2" Column="34" />
+      <File FileName="Assets/Scripts/com/moralabs/cube/manager/Manager.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/com/moralabs/cube/conf/Config.cs" Line="13" Column="93" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Unity.PackageManagerUI.Editor PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

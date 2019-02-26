@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 66a8aef639d8b41c9864c8025e4c545b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Home School
+  fontNames:
+  - Home School
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9d8155c63847145328c212ac664b6e29, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a1da523d9ae6445ad9a4d2ed44c2e146
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Funplay
+  fontNames:
+  - Funplay
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ba8cc2f0e8ff24fd8a4ff2df75599105, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
